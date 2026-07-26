@@ -31,9 +31,9 @@ function getArchesForBin(bin) {
 }
 
 const versions = {
-    'yt-dlp': '2026.07.06.234510',
+    'yt-dlp': '2026.07.23.234303',
     'ffmpeg-ffprobe': 'latest',
-    'deno': '2.9.2',
+    'deno': '2.9.4',
     'aria2c': '1.37.0',
     'neodlp-pot': '0.8.1'
 };
